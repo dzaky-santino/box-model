@@ -1,18 +1,26 @@
-# BOX MODEL
-LATIHAN BOX MODEL DARI WEB PROGRAMMING UNPAS <br>
+# Box Model Project
+
+Selamat datang di proyek **Box Model**! 📦
+
+## Deskripsi
+
+Proyek ini merupakan tutorial interaktif yang menjelaskan konsep **Box Model** dalam CSS. Box Model adalah dasar penting dalam desain web yang mempengaruhi bagaimana elemen ditampilkan dan diatur dalam halaman. Melalui proyek ini, pengguna dapat memahami dan memvisualisasikan bagaimana berbagai properti CSS bekerja bersama untuk membentuk tata letak elemen. latihan box model oleh WEB PROGRAMMING UNPAS <br>
 http://www.youtube.com/@sandhikagalihWPU
 
-## Butuh Bantuan? Ingin Bertanya?
-Jika mengalami kesulitan atau memiliki pertanyaan. Bergabunglah dengan server Discord saya untuk mendapatkan bantuan langsung dari komunitas atau saya.
-🔗 [Join Server Discord](https://discord.gg/2x39Q2vZpb)
 
-## Dukung Saya
-Dukung saya di Saweria dan Trakteer untuk membantu saya terus semangat dalam ngoding hehe.
+## Demo
 
-💖 [Dukung di Saweria](https://saweria.co/dzakysantino)
-❤️ [Dukung di Trakteer](https://trakteer.id/dzakysantino)
+Lihat proyek ini berfungsi di: [Box Model Live Demo](https://dzaky-santino.github.io/box-model/)
 
-### Preview
-![image](https://github.com/dzaky-santino/BOX-MODEL/assets/88192405/1382189e-143b-4b76-85c9-a04a9c09edc6)
+## Fitur
 
+- **Visualisasi Interaktif**: Memungkinkan pengguna untuk melihat bagaimana padding, margin, border, dan konten berinteraksi dalam Box Model.
+- **Mudah Digunakan**: Antarmuka pengguna yang sederhana dan intuitif untuk pemahaman yang lebih baik.
+- **Keterampilan Desain Web Dasar**: Mengajari pengguna cara menggunakan CSS secara efektif.
+
+## Cara Menggunakan
+
+1. **Clone repositori**:
+   ```bash
+   git clone https://github.com/dzaky-santino/box-model.git
 
